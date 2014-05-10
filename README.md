@@ -1,1 +1,1 @@
-#[Blog as it is.](http://caonan.me/blog)
+#[Blog as it is.](http://www.caonan.me/blog)
