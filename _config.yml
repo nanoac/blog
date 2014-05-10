@@ -105,3 +105,8 @@ deploy:
   repo: git@github.com:nanoac/blog.git
   branch: gh-pages
   message: "Site updated :)"
+
+# Plugins
+plugins:
+- hexo-generator-feed
+- hexo-generator-sitemap
