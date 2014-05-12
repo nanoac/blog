@@ -17,9 +17,9 @@ widgets:
 - rss
 - category
 - tag
-- links
 - tagcloud
-## - weibo_show
+- links
+- weibo_show
 ## provide six widgets:category,tag,rss,archive,tagcloud,links.
 ## modify links in `/layout/_widget/links.ejs`.
 
@@ -96,9 +96,9 @@ baidu_tongji:
   enable: true
   code: 4eea06397c3c47ccb488640989128157 ## e.g. 4eea06397c3c47ccb488640989128157
 ## http://yingxiao.baidu.com/support/tongji/detail_2525.html
-## Find code in "wap站访问分析代码" (recommended)
+## Find id in "wap站访问分析代码" (recommended)
 ## e.g. 4eea06397c3c47ccb488640989128157 in "$_hmt = new _HMT("4eea06397c3c47ccb488640989128157");"
-## Find code in "访问分析代码", note that it does NOT include "3F"
+## Find id in "访问分析代码", note that it does NOT include "3F"
 ## e.g. 4eea06397c3c47ccb488640989128157 in "hm.baidu.com/h.js%3F4eea06397c3c47ccb488640989128157"
 
 #### Custom Search
