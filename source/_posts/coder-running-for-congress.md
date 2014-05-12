@@ -73,4 +73,4 @@ http://inagist.com/all/439044497587322880/
 * http://nodeconf.com/
 
 -------
-原文发于 http://jianshu.io/p/1c6583048421 。
+原文首发于[简书](http://jianshu.io/p/1c6583048421)
