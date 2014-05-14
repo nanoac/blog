@@ -1,10 +1,10 @@
 title: 生命、宇宙以及一切的意义
 date: 2014-03-18 19:18:00
 categories: 译文
-tags: [翻译, translation, 科幻,science fiction]
+tags: [翻译, translation, 科幻, SF]
 description:
 ---
-![](http://siwangxinyuan.qiniudn.com/jianshu-42-1280x800-%5BDesktopNexus.com%5D.jpg?imageView/2/w/619/q/90)
+![](http://siwangxinyuan.qiniudn.com/jianshu-42-1280x800-%5BDesktopNexus.com%5D.jpg)
 
 生命、宇宙以及一切的意义
 
