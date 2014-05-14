@@ -1,6 +1,6 @@
 title: 代码仔竞选国会议员进行时，有钱出钱有力出力
 date: 2014-02-28 20:17:00
-tags: [翻译,coder]
+tags: [翻译, translation, coder,程序员]
 categories: 译文
 #description: 译自：I’m a coder running for Congress，
 ---

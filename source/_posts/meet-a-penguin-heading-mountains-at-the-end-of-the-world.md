@@ -1,7 +1,7 @@
 title: 在世界尽头遇见一只奔向大山的企鹅
 date: 2014-02-25 01:01:00
 categories: 死亡心愿
-tags: [电影, 纪录片]
+tags: [电影, translation, film, 纪录片, documentary]
 description:
 ---
 [![](http://siwangxinyuan.qiniudn.com/%E3%80%8A%E5%9C%A8%E4%B8%96%E7%95%8C%E5%B0%BD%E5%A4%B4%E7%9B%B8%E9%81%87%E3%80%8B%E6%88%AA%E5%9B%BE.png)](http://movie.douban.com/subject/2237378/)
