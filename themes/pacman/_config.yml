@@ -2,8 +2,8 @@
 menu:
   主页: /blog
   存档: /blog/archives
-  分类: /blog/categories
-  标签: /blog/tags
+#  分类: /blog/categories
+#  标签: /blog/tags
   关于: /blog/about
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
