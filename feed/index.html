@@ -1,5 +1,6 @@
 
-  <!DOCTYPE HTML>
+  
+    <!DOCTYPE HTML>
 
 <!--[if IE 6]>
 	<script src="//letskillie6.googlecode.com/svn/trunk/2/zh_CN.js"></script>
@@ -9,7 +10,7 @@
 <head>
   <meta charset="UTF-8">
   
-    <title>Category: 死亡心愿 | 曹楠志</title>
+    <title>订阅源 | 曹楠志</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
     
     <meta name="author" content="Nan Cao">
@@ -20,7 +21,7 @@
     
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="caonan" />
-    <meta name="twitter:title" content="Category: 死亡心愿 | 曹楠志" />
+    <meta name="twitter:title" content="订阅源 | 曹楠志" />
       
     
     
@@ -36,9 +37,9 @@
     <link rel="stylesheet" href="/blog/css/style.css" type="text/css">
 </head>
 
-    <body>
-      <header>
-        <div>
+      <body>
+        <header>
+          <div>
 		
 			<div id="imglogo">
 				<a href="/blog/"><img src="/blog/img/logo.svg" alt="曹楠志" title="曹楠志"/></a>
@@ -72,33 +73,57 @@
 			</nav>			
 </div>
 
-      </header>
-      <div id="container">
-        
-
-<div class="archive-title" >
-  <h2 class="category-icon">死亡心愿</h2>
-  
-</div>
-<div id="main" class="archive-part clearfix">
-  <div id="archive-page">
-
-  <section class="post" itemscope itemprop="blogPost">
-  
-    <a href="/blog/2014/02/25/meet-a-penguin-heading-mountains-at-the-end-of-the-world/" title="在世界尽头遇见一只奔向大山的企鹅" itemprop="url">
-  
-    <h1 itemprop="name">在世界尽头遇见一只奔向大山的企鹅</h1>
+        </header>
+        <div id="container">
+          <div id="main" class="page" itemscope itemprop="blogPost">
+	<article itemprop="articleBody"> 
+		<header class="article-info clearfix">
+  <h1 itemprop="name">
     
-    <time datetime="2014-02-24T17:01:00.000Z" itemprop="datePublished">2月 25 2014</time>
-  </a>
+      <a href="/blog/feed/index.html" title="订阅源" itemprop="url">订阅源</a>
+  </h1>
+  <p class="article-author">By
+    
+      <a href="http://www.caonan.me/blog" title="Nan Cao">Nan Cao</a>
+    </p>
+  <p class="article-time">
+    <time datetime="2014-05-11T13:17:14.000Z" itemprop="datePublished">5月 11 2014</time>
+    更新日期:<time datetime="2014-05-16T02:28:07.000Z" itemprop="dateModified">5月 16 2014</time>
+    
+  </p>
+</header>
+	<div class="article-content">
+		
+		
+		<p>这个页面用来放订阅源，比如下面这两个，仿照阮一峰的页面改一改。</p>
+<p><a href="http://www.caonan.me/blog/atom.xml">http://www.caonan.me/blog/atom.xml</a></p>
+<p><a href="http://feeds.feedburner.com/caonan" target="_blank">http://feeds.feedburner.com/caonan</a></p>
+<p>外加两个邮件订阅，一个feedburner的，一个国内的（比如QQ邮箱的服务？查一下）</p>
+<p>逼格，哼哼，逼格。</p>
+  
+	</div>
+		<footer class="article-footer clearfix">
+
+
+
+
+<div class="article-share" id="share">
+
+  <div data-url="http://www.caonan.me/blog/feed/index.html" data-title="订阅源 | 曹楠志" data-tsina="nano" class="share clearfix">
+  </div>
+
+</div>
+</footer>   	       
+	</article>
+	
+	
+<section class="comment">
+	<div class="ds-thread"></div>
 </section>
 
-
-  </div>
-</div>
-
-      </div>
-      <footer><div id="footer" >
+</div>  
+        </div>
+        <footer><div id="footer" >
 	
 	<div class="line">
 		<span></span>
@@ -130,7 +155,7 @@
 		</p>
 </div>
 </footer>
-      <script src="/blog/js/jquery-2.1.0.min.js"></script>
+        <script src="/blog/js/jquery-2.1.0.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function(){ 
   $('.navbar').click(function(){
@@ -177,6 +202,46 @@ $(document).ready(function(){
 </script>
 
 
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var $this = $('.share'),
+      url = $this.attr('data-url'),
+      encodedUrl = encodeURIComponent(url),
+      title = $this.attr('data-title'),
+      tsina = $this.attr('data-tsina');
+  var html = [
+  '<a href="#" class="overlay" id="qrcode"></a>',
+  '<div class="qrcode clearfix"><span>扫描二维码分享到微信朋友圈</span><a class="qrclose" href="#share"></a><strong>Loading...Please wait</strong><img id="qrcode-pic" data-src="http://s.jiathis.com/qrcode.php?url=' + encodedUrl + '"/></div>',
+  '<a href="#textlogo" class="article-back-to-top" title="Top"></a>',
+  '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
+  '<a href="#qrcode" class="article-share-qrcode" title="QRcode"></a>',
+  '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
+  '<a href="http://service.weibo.com/share/share.php?title='+title+'&url='+encodedUrl +'&ralateUid='+ tsina +'&searchPic=true&style=number' +'" class="article-share-weibo" target="_blank" title="Weibo"></a>',
+  '<span title="Share to"></span>'
+  ].join('');
+  $this.append(html);
+  $('.article-share-qrcode').click(function(){
+    var imgSrc = $('#qrcode-pic').attr('data-src');
+    $('#qrcode-pic').attr('src', imgSrc);
+    $('#qrcode-pic').load(function(){
+        $('.qrcode strong').text(' ');
+    });
+  });
+});     
+</script>
+
+
+<script type="text/javascript">
+  var duoshuoQuery = {short_name:"caonan"};
+  (function() {
+    var ds = document.createElement('script');
+    ds.type = 'text/javascript';ds.async = true;
+    ds.src = '//static.duoshuo.com/embed.js';
+    ds.charset = 'UTF-8';
+    (document.getElementsByTagName('head')[0] 
+    || document.getElementsByTagName('body')[0]).appendChild(ds);
+  })();
+</script> 
 
 
 
@@ -197,5 +262,6 @@ ga('send', 'pageview');
 </script>
 
 
-    </body>
-   </html>
+      </body>
+     </html>
+     
